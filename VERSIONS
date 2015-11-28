@@ -1,0 +1,42 @@
+
+Version history
+===============
+
+tree version:
+
+1.0
+	99-12-03
+	First working version, not released.
+
+1.1
+	99-12-04
+	Added command line switches for displaying
+	help and version information.
+	Also added switches to show hidden files
+	and sort the output.
+
+1.2
+	99-12-04
+	A new switch added, -f. Now only directories
+	are shown by default. With the -f switch
+	files will be shown too.
+
+1.3
+	99-12-04
+	CURRENT VERSION
+	Now an at sign ( @ ) is displayed after a filename
+	if the file is alink.
+	Some minor changes to the code, such as passing some
+	function arguments by reference, making the code a
+	bit more efficient.
+
+To do:
+	99-12-04
+
+	1.	Alpha testing.
+
+	2.	Enable printing of the absolute path as root of
+		the tree when a relative path is given as argument.
+
+Written by:
+Niklas Strand

@@ -1,0 +1,20 @@
+
+
+
+Installation
+============
+
+The installation of tree is very simple. Just
+follow the steps below.
+
+To compile, type "make" and all necessary files
+will be compiled.
+
+To install, type "make install". The executable
+will be copied to /usr/bin.
+
+To uninstall, type "make uninstall". This will
+remove the executable from your /usr/bin directory.
+
+"make clean" removes any compiled object files.
+
